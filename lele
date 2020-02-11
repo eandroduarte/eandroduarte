@@ -1,0 +1,489 @@
+<html><head>
+        <title>Repositório Institucional da UFPB: Página inicial</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="Generator" content="DSpace 5.7-SNAPSHOT">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="shortcut icon" href="/jspui/favicon.ico" type="image/x-icon">
+	    <link rel="stylesheet" href="/jspui/static/css/jquery-ui-1.10.3.custom/redmond/jquery-ui-1.10.3.custom.css" type="text/css">
+	    <link rel="stylesheet" href="/jspui/static/css/bootstrap/bootstrap.min.css" type="text/css">
+	    <link rel="stylesheet" href="/jspui/static/css/bootstrap/bootstrap-theme.min.css" type="text/css">
+	    <link rel="stylesheet" href="/jspui/static/css/bootstrap/dspace-theme.css" type="text/css">
+            
+
+        <link rel="alternate" type="application/rdf+xml" title="Items in Repositório Institucional da UFPB" href="/jspui/feed/rss_1.0/site">
+
+        <link rel="alternate" type="application/rss+xml" title="Items in Repositório Institucional da UFPB" href="/jspui/feed/rss_2.0/site">
+
+        <link rel="alternate" type="application/rss+xml" title="Items in Repositório Institucional da UFPB" href="/jspui/feed/atom_1.0/site">
+
+        <link rel="search" type="application/opensearchdescription+xml" href="/jspui/open-search/description.xml" title="DSpace">
+
+        
+	<script src="/jspui/static/js/jquery/jquery-1.10.2.min.js"></script>
+	<script src="/jspui/static/js/jquery/jquery-ui-1.10.3.custom.min.js"></script>
+	<script src="/jspui/static/js/bootstrap/bootstrap.min.js"></script>
+	<script src="/jspui/static/js/holder.js"></script>
+	<script src="/jspui/utils.js"></script>
+    <script src="/jspui/static/js/choice-support.js"> </script>
+
+    
+    
+    
+
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="/jspui/static/js/html5shiv.js"></script>
+  <script src="/jspui/static/js/respond.min.js"></script>
+<![endif]-->
+    <style id="holderjs-style" type="text/css">.holderjs-fluid {font-size:16px;font-weight:bold;text-align:center;font-family:sans-serif;margin:0}</style></head>
+
+    
+    
+    <body class="undernavigation" style="">
+<a class="sr-only" href="#content">Skip navigation</a>
+<header class="navbar navbar-inverse navbar-fixed-top">    
+    
+            <div class="container">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       <div class="navbar-header">
+         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+           <span class="icon-bar"></span>
+           <span class="icon-bar"></span>
+           <span class="icon-bar"></span>
+         </button>
+         <a class="navbar-brand" href="/jspui/"><img height="25" src="/jspui/image/dspace-logo-only.png" alt="DSpace logo"></a>
+       </div>
+       <nav class="collapse navbar-collapse bs-navbar-collapse">
+         <ul class="nav navbar-nav">
+           <li class="active"><a href="/jspui/"><span class="glyphicon glyphicon-home"></span> Página inicial</a></li>
+                
+           <li class="dropdown">
+             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Navegar <b class="caret"></b></a>
+             <ul class="dropdown-menu">
+               <li><a href="/jspui/community-list">Comunidades e coleções</a></li>
+				<li class="divider"></li>
+        <li class="dropdown-header">Navegar nos Itens por:</li>
+				
+				
+				
+				      			<li><a href="/jspui/browse?type=dateissued">Data do documento</a></li>
+					
+				      			<li><a href="/jspui/browse?type=author">Autores</a></li>
+					
+				      			<li><a href="/jspui/browse?type=advisor">Orientadores</a></li>
+					
+				      			<li><a href="/jspui/browse?type=title">Título</a></li>
+					
+				      			<li><a href="/jspui/browse?type=subject">Assunto</a></li>
+					
+				      			<li><a href="/jspui/browse?type=cnpq">CNPq</a></li>
+					
+				      			<li><a href="/jspui/browse?type=department">Departamento</a></li>
+					
+				      			<li><a href="/jspui/browse?type=program">Programas</a></li>
+					
+				      			<li><a href="/jspui/browse?type=type">Tipo do Documento</a></li>
+					
+				      			<li><a href="/jspui/browse?type=access">Tipo de Acesso</a></li>
+					
+				    
+				
+
+            </ul>
+          </li>
+          <li class=""><script type="text/javascript">
+<!-- Javascript starts here
+document.write('<a href="#" onClick="var popupwin = window.open(\'/jspui/help/index.html\',\'dspacepopup\',\'height=600,width=550,resizable,scrollbars\');popupwin.focus();return false;">Ajuda<\/a>');
+// -->
+</script><a href="#" onclick="var popupwin = window.open('/jspui/help/index.html','dspacepopup','height=600,width=550,resizable,scrollbars');popupwin.focus();return false;">Ajuda</a><noscript><a href="/jspui/help/index.html" target="dspacepopup">Ajuda</a></noscript></li>
+          <li><a href="/jspui/feedback">Contato</a></li>		
+       </ul>
+
+ 
+    <div class="nav navbar-nav navbar-right">
+	 <ul class="nav navbar-nav navbar-right">
+      <li class="dropdown">
+       <a href="#" class="dropdown-toggle" data-toggle="dropdown">Idioma<b class="caret"></b></a>
+        <ul class="dropdown-menu">
+ 
+      <li>
+        <a onclick="javascript:document.repost.locale.value='pt_BR';
+                  document.repost.submit();" href="/jspui?locale=pt_BR">
+         português
+       </a>
+      </li>
+ 
+      <li>
+        <a onclick="javascript:document.repost.locale.value='es';
+                  document.repost.submit();" href="/jspui?locale=es">
+         español
+       </a>
+      </li>
+ 
+      <li>
+        <a onclick="javascript:document.repost.locale.value='en';
+                  document.repost.submit();" href="/jspui?locale=en">
+         English
+       </a>
+      </li>
+ 
+     </ul>
+    </li>
+    </ul>
+  </div>
+ 
+ 
+       <div class="nav navbar-nav navbar-right">
+		<ul class="nav navbar-nav navbar-right">
+         <li class="dropdown">
+         
+             <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-user"></span> Entrar em: <b class="caret"></b></a>
+	             
+             <ul class="dropdown-menu">
+               <li><a href="/jspui/mydspace">Meu espaço</a></li>
+               <li><a href="/jspui/subscribe">Receber atualizações<br> por e-mail</a></li>
+               <li><a href="/jspui/profile">Editar perfil</a></li>
+
+		
+             </ul>
+           </li>
+          </ul>
+          
+        <span class="navbar-form navbar-right"></span>
+	
+     
+
+</div>
+    </nav>
+
+            </div>
+
+</header>
+
+<main id="content">
+
+<br>
+                
+
+<div class="container">
+                
+
+
+
+  
+
+
+
+</div>                
+
+
+
+        
+<div class="container">
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div class="container">
+
+
+
+
+                        <div id="logo-deposita" class="text-center">
+                                <a href="/jspui/community-list">
+                                        <img src="/jspui/image/logo.gif" alt="logo UFPB" title="Navegar por comunidades e coleções">
+                                </a>
+                                <h1 style="font-size: 22px;"><strong>REPOSITÓRIO INSTITUCIONAL DA UFPB</strong></h1>
+                        </div>
+
+
+
+ <form method="get" action="/jspui/simple-search" class="form-horizontal col-md-12 form-group form-group-lg">
+           <div class="col-md-12 input-group">
+         <input class="form-control" value="" type="text" style="height: 45px !important; font-size: 15px; text-rendering: optimizeLegibility; border-color: #018BBA;" placeholder="Buscar no repositório" name="query" id="tequery-main" size="25">
+                <span class="input-group-btn">
+                           <button type="submit" style="height: 45px; width:45px" class="btn btn-primary pull-right search-button" title="Realizar a busca ou abrir busca avançada ...">
+                                <span class="glyphicon glyphicon-search"></span>
+                           </button>
+                </span>
+
+
+
+
+               </div> 
+               </form>
+
+
+
+	
+
+<div class="container row">
+
+    
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-md-12">
+
+
+<div id="facets" class="facetsBox row panel">
+
+       
+	    <div id="facet_contributor" class="col-md-4">
+	    
+	    	<div class="panel panel-success colorborder1">
+	    		
+	    		
+	    	
+		    	<div class="panel-heading facet-panel clickable-panel color1">Autoria<span class="glyphicon glyphicon-plus pull-right"></span></div>
+		    		<ul class="list-group hideFacets"><li class="list-group-item"><span class="badge">61</span> <a href="/jspui/simple-search?filterquery=Lucena%2C+Ricardo+Barbosa+de&amp;filtername=contributor&amp;filtertype=equals" title="Filtrado por Lucena, Ricardo Barbosa de">
+					                Lucena, Ricardo Barbosa de</a></li><li class="list-group-item"><span class="badge">49</span> <a href="/jspui/simple-search?filterquery=Lucena%2C+Rosivaldo+de+Lima&amp;filtername=contributor&amp;filtertype=equals" title="Filtrado por Lucena, Rosivaldo de Lima">
+					                Lucena, Rosivaldo de Lima</a></li><li class="list-group-item"><span class="badge">46</span> <a href="/jspui/simple-search?filterquery=Souza%2C+Antonio+Gouveia+de&amp;filtername=contributor&amp;filtertype=equals" title="Filtrado por Souza, Antonio Gouveia de">
+					                Souza, Antonio Gouveia de</a></li><li class="list-group-item"><span class="badge">45</span> <a href="/jspui/simple-search?filterquery=Lima%2C+Edeltrudes+de+Oliveira&amp;filtername=contributor&amp;filtertype=equals" title="Filtrado por Lima, Edeltrudes de Oliveira">
+					                Lima, Edeltrudes de Oliveira</a></li><li class="list-group-item"><span class="badge">41</span> <a href="/jspui/simple-search?filterquery=Rodrigues%2C+Janine+Marta+Coelho&amp;filtername=contributor&amp;filtertype=equals" title="Filtrado por Rodrigues, Janine Marta Coelho">
+					                Rodrigues, Janine Marta Coelho</a></li><li class="list-group-item"><span class="badge">39</span> <a href="/jspui/simple-search?filterquery=Batista%2C+Maria+do+Socorro+Xavier&amp;filtername=contributor&amp;filtertype=equals" title="Filtrado por Batista, Maria do Socorro Xavier">
+					                Batista, Maria do Socorro Xavier</a></li><li class="list-group-item"><span class="badge">39</span> <a href="/jspui/simple-search?filterquery=Ferreira%2C+Ana+Paula+Rom%C3%A3o+de+Souza&amp;filtername=contributor&amp;filtertype=equals" title="Filtrado por Ferreira, Ana Paula Romão de Souza">
+					                Ferreira, Ana Paula Romão de Souza</a></li><li class="list-group-item"><span style="visibility: hidden;">.</span>
+						        
+					            
+					            <a href="/jspui?contributor_page=1#facet_contributor"><span class="pull-right">próximo &gt;</span></a>
+					            </li>	</ul>
+	    </div>
+	      
+   		 </div>
+   		 
+   
+       
+	    <div id="facet_subject" class="col-md-4">
+	    
+	    	<div class="panel panel-success colorborder2">
+	    		
+	    		
+	    	
+		    	<div class="panel-heading facet-panel clickable-panel color2">Assunto<span class="glyphicon glyphicon-plus pull-right"></span></div>
+		    		<ul class="list-group hideFacets"><li class="list-group-item"><span class="badge">414</span> <a href="/jspui/simple-search?filterquery=Educa%C3%A7%C3%A3o+infantil&amp;filtername=subject&amp;filtertype=equals" title="Filtrado por Educação infantil">
+					                Educação infantil</a></li><li class="list-group-item"><span class="badge">318</span> <a href="/jspui/simple-search?filterquery=Ensino+-+aprendizagem&amp;filtername=subject&amp;filtertype=equals" title="Filtrado por Ensino - aprendizagem">
+					                Ensino - aprendizagem</a></li><li class="list-group-item"><span class="badge">220</span> <a href="/jspui/simple-search?filterquery=Educa%C3%A7%C3%A3o&amp;filtername=subject&amp;filtertype=equals" title="Filtrado por Educação">
+					                Educação</a></li><li class="list-group-item"><span class="badge">172</span> <a href="/jspui/simple-search?filterquery=Educa%C3%A7%C3%A3o+de+jovens+e+adultos&amp;filtername=subject&amp;filtertype=equals" title="Filtrado por Educação de jovens e adultos">
+					                Educação de jovens e adultos</a></li><li class="list-group-item"><span class="badge">154</span> <a href="/jspui/simple-search?filterquery=Leitura&amp;filtername=subject&amp;filtertype=equals" title="Filtrado por Leitura">
+					                Leitura</a></li><li class="list-group-item"><span class="badge">138</span> <a href="/jspui/simple-search?filterquery=Enfermagem&amp;filtername=subject&amp;filtertype=equals" title="Filtrado por Enfermagem">
+					                Enfermagem</a></li><li class="list-group-item"><span class="badge">129</span> <a href="/jspui/simple-search?filterquery=L%C3%BAdico+-+jogos+e+brincadeiras&amp;filtername=subject&amp;filtertype=equals" title="Filtrado por Lúdico - jogos e brincadeiras">
+					                Lúdico - jogos e brincadeiras</a></li><li class="list-group-item"><span style="visibility: hidden;">.</span>
+						        
+					            
+					            <a href="/jspui?subject_page=1#facet_subject"><span class="pull-right">próximo &gt;</span></a>
+					            </li>	</ul>
+	    </div>
+	      
+   		 </div>
+   		 
+   
+       
+	    <div id="facet_cnpq" class="col-md-4">
+	    
+	    	<div class="panel panel-success colorborder0">
+	    		
+	    		
+	    	
+		    	<div class="panel-heading facet-panel clickable-panel color0">Áreas de conhecimento<span class="glyphicon glyphicon-plus pull-right"></span></div>
+		    		<ul class="list-group hideFacets"><li class="list-group-item"><span class="badge">2454</span> <a href="/jspui/simple-search?filterquery=CIENCIAS+HUMANAS&amp;filtername=cnpq&amp;filtertype=equals" title="Filtrado por CIENCIAS HUMANAS">
+					                CIENCIAS HUMANAS</a></li><li class="list-group-item"><span class="badge">2328</span> <a href="/jspui/simple-search?filterquery=CIENCIAS+SOCIAIS+APLICADAS&amp;filtername=cnpq&amp;filtertype=equals" title="Filtrado por CIENCIAS SOCIAIS APLICADAS">
+					                CIENCIAS SOCIAIS APLICADAS</a></li><li class="list-group-item"><span class="badge">1832</span> <a href="/jspui/simple-search?filterquery=CIENCIAS+HUMANAS%3A%3AEDUCACAO&amp;filtername=cnpq&amp;filtertype=equals" title="Filtrado por CIENCIAS HUMANAS::EDUCACAO">
+					                CIENCIAS HUMANAS::EDUCACAO</a></li><li class="list-group-item"><span class="badge">1143</span> <a href="/jspui/simple-search?filterquery=CIENCIAS+AGRARIAS&amp;filtername=cnpq&amp;filtertype=equals" title="Filtrado por CIENCIAS AGRARIAS">
+					                CIENCIAS AGRARIAS</a></li><li class="list-group-item"><span class="badge">1130</span> <a href="/jspui/simple-search?filterquery=LINGUISTICA%2C+LETRAS+E+ARTES&amp;filtername=cnpq&amp;filtertype=equals" title="Filtrado por LINGUISTICA, LETRAS E ARTES">
+					                LINGUISTICA, LETRAS E ARTES</a></li><li class="list-group-item"><span class="badge">856</span> <a href="/jspui/simple-search?filterquery=CIENCIAS+SOCIAIS+APLICADAS%3A%3AADMINISTRACAO&amp;filtername=cnpq&amp;filtertype=equals" title="Filtrado por CIENCIAS SOCIAIS APLICADAS::ADMINISTRACAO">
+					                CIENCIAS SOCIAIS APLICADAS::ADMIN...</a></li><li class="list-group-item"><span class="badge">797</span> <a href="/jspui/simple-search?filterquery=LINGUISTICA%2C+LETRAS+E+ARTES%3A%3ALETRAS&amp;filtername=cnpq&amp;filtertype=equals" title="Filtrado por LINGUISTICA, LETRAS E ARTES::LETRAS">
+					                LINGUISTICA, LETRAS E ARTES::LETRAS</a></li><li class="list-group-item"><span style="visibility: hidden;">.</span>
+						        
+					            
+					            <a href="/jspui?cnpq_page=1#facet_cnpq"><span class="pull-right">próximo &gt;</span></a>
+					            </li>	</ul>
+	    </div>
+	      
+   		 </div>
+   		 
+   
+       
+	    <div id="facet_type" class="col-md-4">
+	    
+	    	<div class="panel panel-success colorborder1">
+	    		
+	    		
+	    	
+		    	<div class="panel-heading facet-panel clickable-panel color1">Tipo de Documento<span class="glyphicon glyphicon-plus pull-right"></span></div>
+		    		<ul class="list-group hideFacets"><li class="list-group-item"><span class="badge">7109</span> <a href="/jspui/simple-search?filterquery=TCC&amp;filtername=type&amp;filtertype=equals" title="Filtrado por TCC">
+					                TCC</a></li><li class="list-group-item"><span class="badge">6331</span> <a href="/jspui/simple-search?filterquery=Disserta%C3%A7%C3%A3o&amp;filtername=type&amp;filtertype=equals" title="Filtrado por Dissertação">
+					                Dissertação</a></li><li class="list-group-item"><span class="badge">1676</span> <a href="/jspui/simple-search?filterquery=Tese&amp;filtername=type&amp;filtertype=equals" title="Filtrado por Tese">
+					                Tese</a></li><li class="list-group-item"><span class="badge">24</span> <a href="/jspui/simple-search?filterquery=Artigo+de+Peri%C3%B3dico&amp;filtername=type&amp;filtertype=equals" title="Filtrado por Artigo de Periódico">
+					                Artigo de Periódico</a></li><li class="list-group-item"><span class="badge">16</span> <a href="/jspui/simple-search?filterquery=Artigo+de+Evento&amp;filtername=type&amp;filtertype=equals" title="Filtrado por Artigo de Evento">
+					                Artigo de Evento</a></li><li class="list-group-item"><span class="badge">6</span> <a href="/jspui/simple-search?filterquery=Livro&amp;filtername=type&amp;filtertype=equals" title="Filtrado por Livro">
+					                Livro</a></li><li class="list-group-item"><span class="badge">2</span> <a href="/jspui/simple-search?filterquery=Cap%C3%ADtulo+de+Livro&amp;filtername=type&amp;filtertype=equals" title="Filtrado por Capítulo de Livro">
+					                Capítulo de Livro</a></li>	</ul>
+	    </div>
+	      
+   		 </div>
+   		 
+   
+       
+	    <div id="facet_dateIssued" class="col-md-4">
+	    
+	    	<div class="panel panel-success colorborder2">
+	    		
+	    		
+	    	
+		    	<div class="panel-heading facet-panel clickable-panel color2">Data de Publicação<span class="glyphicon glyphicon-plus pull-right"></span></div>
+		    		<ul class="list-group hideFacets"><li class="list-group-item"><span class="badge">14427</span> <a href="/jspui/simple-search?filterquery=%5B2010+TO+2019%5D&amp;filtername=dateIssued&amp;filtertype=equals" title="Filtrado por 2010 - 2019">
+					                2010 - 2019</a></li><li class="list-group-item"><span class="badge">705</span> <a href="/jspui/simple-search?filterquery=%5B2000+TO+2009%5D&amp;filtername=dateIssued&amp;filtertype=equals" title="Filtrado por 2000 - 2009">
+					                2000 - 2009</a></li><li class="list-group-item"><span class="badge">11</span> <a href="/jspui/simple-search?filterquery=%5B1990+TO+1999%5D&amp;filtername=dateIssued&amp;filtertype=equals" title="Filtrado por 1990 - 1999">
+					                1990 - 1999</a></li><li class="list-group-item"><span class="badge">5</span> <a href="/jspui/simple-search?filterquery=%5B1980+TO+1989%5D&amp;filtername=dateIssued&amp;filtertype=equals" title="Filtrado por 1980 - 1989">
+					                1980 - 1989</a></li><li class="list-group-item"><span class="badge">1</span> <a href="/jspui/simple-search?filterquery=%5B1979+TO+1979%5D&amp;filtername=dateIssued&amp;filtertype=equals" title="Filtrado por 1979 - 1979">
+					                1979 - 1979</a></li>	</ul>
+	    </div>
+	      
+   		 </div>
+   		 
+   
+       
+	    <div id="facet_access" class="col-md-4">
+	    
+	    	<div class="panel panel-success colorborder0">
+	    		
+	    		
+	    	
+		    	<div class="panel-heading facet-panel clickable-panel color0">Tipo de Acesso<span class="glyphicon glyphicon-plus pull-right"></span></div>
+		    		<ul class="list-group hideFacets"><li class="list-group-item"><span class="badge">13904</span> <a href="/jspui/simple-search?filterquery=Acesso+aberto&amp;filtername=access&amp;filtertype=equals" title="Filtrado por Acesso aberto">
+					                Acesso aberto</a></li><li class="list-group-item"><span class="badge">2838</span> <a href="/jspui/simple-search?filterquery=Attribution-NoDerivs+3.0+Brazil&amp;filtername=access&amp;filtertype=equals" title="Filtrado por Attribution-NoDerivs 3.0 Brazil">
+					                Attribution-NoDerivs 3.0 Brazil</a></li><li class="list-group-item"><span class="badge">973</span> <a href="/jspui/simple-search?filterquery=Attribution-NonCommercial-NoDerivs+3.0+Brazil&amp;filtername=access&amp;filtertype=equals" title="Filtrado por Attribution-NonCommercial-NoDerivs 3.0 Brazil">
+					                Attribution-NonCommercial-NoDeriv...</a></li><li class="list-group-item"><span class="badge">379</span> <a href="/jspui/simple-search?filterquery=Acesso+restrito&amp;filtername=access&amp;filtertype=equals" title="Filtrado por Acesso restrito">
+					                Acesso restrito</a></li><li class="list-group-item"><span class="badge">15</span> <a href="/jspui/simple-search?filterquery=Attribution+3.0+Brazil&amp;filtername=access&amp;filtertype=equals" title="Filtrado por Attribution 3.0 Brazil">
+					                Attribution 3.0 Brazil</a></li><li class="list-group-item"><span class="badge">6</span> <a href="/jspui/simple-search?filterquery=Attribution-NonCommercial-ShareAlike+3.0+Brazil&amp;filtername=access&amp;filtertype=equals" title="Filtrado por Attribution-NonCommercial-ShareAlike 3.0 Brazil">
+					                Attribution-NonCommercial-ShareAl...</a></li><li class="list-group-item"><span class="badge">5</span> <a href="/jspui/simple-search?filterquery=An+error+occurred+on+the+license+name.&amp;filtername=access&amp;filtertype=equals" title="Filtrado por An error occurred on the license name.">
+					                An error occurred on the license ...</a></li><li class="list-group-item"><span class="badge">3</span> <a href="/jspui/simple-search?filterquery=Acesso+embargado&amp;filtername=access&amp;filtertype=equals" title="Filtrado por Acesso embargado">
+					                Acesso embargado</a></li><li class="list-group-item"><span class="badge">1</span> <a href="/jspui/simple-search?filterquery=Attribution-NonCommercial+3.0+Brazil&amp;filtername=access&amp;filtertype=equals" title="Filtrado por Attribution-NonCommercial 3.0 Brazil">
+					                Attribution-NonCommercial 3.0 Brazil</a></li>	</ul>
+	    </div>
+	      
+   		 </div>
+   		 
+   </div></div>
+
+<script src="/jspui/static/js/clickable-facet.js"></script>
+
+</div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+</div>
+</main>
+            
+             <footer class="navbar-inverse navbar-bottom">
+          
+<div id="tede-footer" class="container text-muted" style="padding-left: 0px;">
+
+                <div id="footer_feedback" class="text-center col-md-12">
+                <div class="footer-logo pull-left">
+
+
+                                  <a href="/jspui" title="Home Repositório">
+                              <img class="pull-left" src="/jspui/image/logo-instituicao-rodape.png" alt="UFPB logo"></a>
+                        <div class="pull-left" style="padding-left: 5px;margin-top: 5px;">
+                                <div class="footer-institution-data" style="font-weight: bold; width:inherit;">
+				UNIVERSIDADE FEDERAL DA PARAÍBA<br>
+				 <div> <span class="glyphicon glyphicon-envelope"></span>
+                                <a style="color: inherit;" href="/jspui/feedback" title="">diretoria@ufpb.br</a></div>
+				 <div><span class="glyphicon glyphicon-phone-alt"></span>
+                                 <a style="color: inherit;" href="tel:83-3216-7172">(83) 3216-7172</a></div><br>
+                                </div>
+                        </div>
+
+                </div>
+
+
+	     
+             <div class="pull-right">  
+                          
+                              <img src="/jspui/image/ibict-60.png" alt="IBICT logo"><br><br>
+								
+                                </div>
+			</div></div>
+ </footer>
+
+</body></html>
